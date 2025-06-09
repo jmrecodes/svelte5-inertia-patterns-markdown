@@ -1,3 +1,8 @@
+---
+description: cursor rule for implementation of components in Svelte 5 with Inertia.js
+globs: .svelte
+alwaysApply: false
+---
 # Svelte 5 + Inertia.js Patterns & Best Practices
 
 ## 📚 Complete Reference Guide
